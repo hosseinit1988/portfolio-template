@@ -23,4 +23,4 @@
 
 
 <br/>
-<img  align="center" width="50%" src="/Screenshot.png" />
+<div align="center"><img  align="center" width="50%" src="/Screenshot.png" /></div>
